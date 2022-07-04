@@ -1,4 +1,4 @@
-package strings_scanner;
+package t02_strings_scanner;
 
 import java.util.Scanner;
 

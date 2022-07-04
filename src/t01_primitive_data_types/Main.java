@@ -1,4 +1,4 @@
-package primitive_data_types;
+package t01_primitive_data_types;
 
 public class Main {
     
